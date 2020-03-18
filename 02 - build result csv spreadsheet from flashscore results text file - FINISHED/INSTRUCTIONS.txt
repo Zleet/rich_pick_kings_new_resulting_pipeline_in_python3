@@ -1,0 +1,51 @@
+===================================================
+EXTRACT PREMIER RESULTS FROM FLASHSCORE PASTED TEXT
+INSTRUCTIONS
+===================================================
+1
+Go to www.flashscore.com
+
+2
+On the left side of the page, click Premier League
+
+3
+At the top of the page, click the Results tab
+
+4
+Keep scrolling to the bottom of the page and clicking on "Show more matches" until all the results are displayed.
+
+5
+Press Control + A to select all the text on the webpage.
+
+6
+Press Control + C to copy all the text on the webpage to the clipboard.
+
+7
+Open the file 'premier league results 2019 to 2020 pasted from flashscore.txt', which resides in the same folder as this file.
+
+8
+Press Control + A to select all the text in the file.
+
+9
+Press Delete to delete all the text in the file.
+
+10
+Press Control + V to paste all the flashscore text into the file.
+
+11
+Press Contorl + S to save the file.
+
+12
+Close the file
+
+13
+Right click the file '02 - extract premier results from flashscore pasted text.py' and select Edit with IDLE
+
+14
+Press F5 to run the Python script
+
+15
+When the Python script displays "RUN COMPLETE", close the two Python windows
+
+16
+All the premiership results scraped from flashscore will now be available in the local file 'flashscore premier league results 2019 to 2020.csv'

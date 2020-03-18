@@ -1,0 +1,25 @@
+==========================================================
+RICH PICK KINGS - PYTHON 3 RESULTING SCRIPT - DESIGN NOTES
+==========================================================
+
+What information is required to feed into a Python 3 resulting script?
+1. the football fixtures for the year
+2. all of Karl's fixture spreadsheet info (contains the points values for different correct scores and/or match result)
+3. all of the actual entries from the players
+4. the results for all of the matches (in csv format?)
+
+How to design the program:
+
+Have a text file for each of the above chunks of information (in JSON format)
+
+Write the program.
+
+Have the program spit out a webpage with the following sections:
+
+1. a page where you can select an individual player and view his entire record of entries, the actual results for all the matches and the number of points he gained for (1) the correct score, and (2) the match result
+
+2. a leaderboard page
+
+3. a page where you can select a date range (with two dropdown menus, one for the beginning of the date range and a second for the end of the date range) and see how many points each player gained between those two dates (both inclusive).
+
+The functionality for the above three sections could be written in javascript, provided all the results/points information is built with the Python script...

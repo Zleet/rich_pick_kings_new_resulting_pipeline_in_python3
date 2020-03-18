@@ -1,0 +1,14 @@
+RICH PICK KINGS - RESULT ALL ENTRIES - PLAN TO FINISH
+
+The following information should be output (as js files):
+1. entry ids and matching karl fixture ids
+2. entries
+3. fixtures
+
+For each entry id and matching karl marked fixture, work out:
+1. match result points won
+2. correct score points won
+Then build a dictionary where each key is an entry id and each value is a dictionary containing:
+1. matching karl fixture id
+2. match points won
+3. correct score points won
